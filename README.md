@@ -12,7 +12,7 @@ Jupyter notebooks showcasing diverse machine learning algorithms and practical a
   * [Sementic segmentation with SAM](machine_learning/sam.ipynb)
 
 ## GIS
-  * [Semantic segmentation with SAM]()
-  * [K-means]()
+  * [Semantic segmentation with SAM](gis/sam_gis.ipynb)
+  * [K-means](gis/k-means.ipynb)
 
 
