@@ -15,4 +15,5 @@ Jupyter notebooks showcasing diverse machine learning algorithms and practical a
   * [Semantic segmentation with SAM](gis/sam_gis.ipynb)
   * [K-means](gis/k-means.ipynb)
 
-
+# Data exploration
+  * [explore_images](exploration/images.ipynb)
