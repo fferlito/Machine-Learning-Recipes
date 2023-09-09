@@ -10,7 +10,7 @@ Jupyter notebooks showcasing diverse machine learning algorithms and practical a
 
 
 
-## Deep learning 🧠
+## Deep learning and ML 🧠
   * [Random forest](machine_learning/random_forest.ipynb)
   * [Multiclass classification - transfer learning](machine_learning/transfer_learning_with_hub.ipynb)
   * [Sementic segmentation with U-net](machine_learning/u_net.ipynb)
@@ -18,6 +18,7 @@ Jupyter notebooks showcasing diverse machine learning algorithms and practical a
 
 ## GIS 🗺️
   * [Semantic segmentation with SAM](gis/sam_gis.ipynb)
+  * [SAM with point prompt](gis/sam_gis_point_prompts.ipynb)
   * [K-means](gis/k-means.ipynb)
 
 ## Data exploration 🔍
