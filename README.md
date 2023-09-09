@@ -1,9 +1,11 @@
+<div align="center">
 <p align="center" >
   <img src="./asset/logo2.png" height="120" >
     <h1> Machine Learning Recipes</h1>
 Jupyter notebooks showcasing diverse machine learning algorithms and practical applications.
-
 </p>
+</div>
+
 
 
 
