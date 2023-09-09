@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="./asset/logo2.png" width="200" height="120" >
+  <img src="./asset/logo2.png" height="120" >
 </p>
 
 # Machine-Learning-Recipes
