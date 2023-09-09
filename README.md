@@ -12,7 +12,7 @@ Jupyter notebooks showcasing diverse machine learning algorithms and practical a
 
 ## Deep learning 🧠
   * [Random forest](machine_learning/random_forest.ipynb)
-  * [Multiclass classification - transfer learning](machine_learning/transfer_learning.ipynb)
+  * [Multiclass classification - transfer learning](machine_learning/transfer_learning_with_hub.ipynb)
   * [Sementic segmentation with U-net](machine_learning/u_net.ipynb)
   * [Sementic segmentation with SAM](machine_learning/sam.ipynb)
 
