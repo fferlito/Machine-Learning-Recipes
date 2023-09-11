@@ -17,6 +17,10 @@ Jupyter notebooks showcasing diverse machine learning algorithms and practical a
   * [Sementic segmentation (U-net)](machine_learning/u_net.ipynb)
   * [Sementic segmentation (SAM)](machine_learning/sam.ipynb)
 
+# Computer vision 👁️
+  * [Filters on images](cv/filters.ipynb)
+  * [Otsu's segmentation](cv/otsu_segmentation.ipynb)
+
 ## GIS 🗺️
   * [Random forest](gis/random_forest.ipynb)
   * [K-means](gis/k-means.ipynb)
@@ -31,7 +35,6 @@ Jupyter notebooks showcasing diverse machine learning algorithms and practical a
 ## Data augmentation ➕
   * [Augment images](data_augmentation/augment_images.ipynb)
   * [Augment audios](data_augmentation/augment_audios.ipynb)
-  * [Filters on images](data_augmentation/filters.ipynb)
   
 
 ## Model interpretability 🕵️
