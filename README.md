@@ -21,6 +21,7 @@ Jupyter notebooks showcasing diverse machine learning algorithms and practical a
   * [Filters on images](cv/filters.ipynb)
   * [Otsu's segmentation](cv/otsu_segmentation.ipynb)
   * [Find points of interest](cv/point_of_interest.ipynb)
+  * [Detect faces](cv/faces.ipynb)
 
 ## GIS 🗺️
   * [Random forest](gis/random_forest.ipynb)
