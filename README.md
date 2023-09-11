@@ -33,6 +33,6 @@ Jupyter notebooks showcasing diverse machine learning algorithms and practical a
   * [Augment audios](data_augmentation/augment_audios.ipynb)
 
 ## Model interpretability 🕵️
-  * [Inspect image predictions (Grad-CAM)](interpretability/Grad_CAM.ipynb)
+  * [Inspect image predictions (Grad-CAM)](interpretability/keras-image-classifiers.ipynb)
 
 
