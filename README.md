@@ -36,4 +36,6 @@ Jupyter notebooks showcasing diverse machine learning algorithms and practical a
   * [Inspect image predictions (Grad-CAM)](interpretability/keras-image-classifiers.ipynb)
   * [Explain text predictions](interpretability/explain_text_prediction.ipynb)
 
+## Reducing the dimensionality 🌱
+  * [Principal Component Analysis (PCA)](dimensions/pca.ipynb)
 
