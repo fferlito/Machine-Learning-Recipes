@@ -31,6 +31,8 @@ Jupyter notebooks showcasing diverse machine learning algorithms and practical a
 ## Data augmentation ➕
   * [Augment images](data_augmentation/augment_images.ipynb)
   * [Augment audios](data_augmentation/augment_audios.ipynb)
+  * [Filters on images](data_augmentation/filters.ipynb)
+  
 
 ## Model interpretability 🕵️
   * [Inspect image predictions (Grad-CAM)](interpretability/keras-image-classifiers.ipynb)
